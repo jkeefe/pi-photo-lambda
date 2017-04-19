@@ -1,0 +1,28 @@
+{
+  "name": "pi-photo-lambda",
+  "version": "1.0.0",
+  "description": "The Lambda function that lets Alexa speak about what the photo sees.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkeefe/pi-photo-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkeefe/pi-photo-lambda/issues"
+  },
+  "homepage": "https://github.com/jkeefe/pi-photo-lambda#readme",
+  "devDependencies": {
+    "claudia": "^2.11.0"
+  },
+  "dependencies": {
+    "alexa-sdk": "^1.0.9",
+    "aws-sdk": "^2.43.0",
+    "claudia-api-builder": "^2.4.1"
+  }
+}

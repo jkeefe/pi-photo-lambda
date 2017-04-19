@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "lambda-executor",
+    "name": "pi-photo-lambda",
+    "region": "us-east-1"
+  }
+}
